@@ -17,7 +17,7 @@ function App() {
       </main>
       <footer className="py-8 border-t bg-white/60 backdrop-blur">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-sm text-gray-600 flex flex-wrap items-center justify-between gap-4">
-          <p>© {new Date().getFullYear()} Your Name — AIML Portfolio</p>
+          <p>© {new Date().getFullYear()} Alex Carter — AIML Portfolio</p>
           <a href="#home" className="text-indigo-600 hover:text-indigo-700 font-medium">Back to top ↑</a>
         </div>
       </footer>

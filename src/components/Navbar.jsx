@@ -26,7 +26,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <a href="#home" className="font-extrabold tracking-tight text-xl">
-            <span className="bg-gradient-to-r from-indigo-600 via-fuchsia-500 to-pink-500 bg-clip-text text-transparent">AIML</span> Portfolio
+            <span className="bg-gradient-to-r from-indigo-600 via-fuchsia-500 to-pink-500 bg-clip-text text-transparent">Alex Carter</span> · AI/ML
           </a>
           <nav className="hidden md:flex items-center gap-6">
             {navItems.map((item) => (

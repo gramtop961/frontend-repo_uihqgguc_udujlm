@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Brain, LineChart, Cpu, Sparkles, Github, Linkedin, Mail, ExternalLink, Award, GraduationCap, Briefcase } from 'lucide-react'
+import { Brain, LineChart, Cpu, Github, Linkedin, Mail, ExternalLink } from 'lucide-react'
 
 export function About() {
   const items = [
@@ -138,9 +138,9 @@ export function Contact() {
         <h2 className="text-3xl sm:text-4xl font-bold tracking-tight">Let’s build something remarkable</h2>
         <p className="mt-4 text-gray-700 max-w-2xl">Open to collaborations, research partnerships, and advisory roles. The fastest way to reach me is email; happy to hop on a call.</p>
         <div className="mt-8 flex flex-wrap items-center gap-3">
-          <a href="mailto:you@example.com" className="inline-flex items-center gap-2 rounded-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 transition-colors"><Mail className="h-4 w-4" /> Email</a>
-          <a href="https://github.com/" target="_blank" className="inline-flex items-center gap-2 rounded-full bg-white border border-gray-300 hover:border-gray-400 text-gray-800 font-semibold px-6 py-3 transition-colors"><Github className="h-4 w-4" /> GitHub</a>
-          <a href="https://www.linkedin.com/" target="_blank" className="inline-flex items-center gap-2 rounded-full bg-white border border-gray-300 hover:border-gray-400 text-gray-800 font-semibold px-6 py-3 transition-colors"><Linkedin className="h-4 w-4" /> LinkedIn</a>
+          <a href="mailto:alex.carter@example.com" className="inline-flex items-center gap-2 rounded-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 transition-colors"><Mail className="h-4 w-4" /> Email</a>
+          <a href="https://github.com/alex-carter" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full bg-white border border-gray-300 hover:border-gray-400 text-gray-800 font-semibold px-6 py-3 transition-colors"><Github className="h-4 w-4" /> GitHub</a>
+          <a href="https://www.linkedin.com/in/alexcarter" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full bg-white border border-gray-300 hover:border-gray-400 text-gray-800 font-semibold px-6 py-3 transition-colors"><Linkedin className="h-4 w-4" /> LinkedIn</a>
         </div>
       </div>
     </section>

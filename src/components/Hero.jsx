@@ -16,10 +16,10 @@ export default function Hero() {
             20+ years crafting intelligent systems & delightful products
           </p>
           <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight leading-tight">
-            Building Human-Centered AI that ships and scales
+            Hey, I’m Alex Carter — I build human-centered AI that ships and scales
           </h1>
           <p className="mt-6 text-lg text-gray-700 leading-relaxed">
-            I’m an AI/ML engineer and product-focused developer specializing in end‑to‑end systems: from data pipelines and model design to sleek, accessible frontends. I obsess over latency, reliability, and taste.
+            AI/ML engineer and product-focused developer specializing in end‑to‑end systems: from data pipelines and model design to sleek, accessible frontends. I obsess over latency, reliability, and taste.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <a href="#projects" className="inline-flex items-center rounded-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 transition-colors">See Featured Work</a>
